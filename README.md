@@ -1,5 +1,5 @@
 # Stranger ChatRoom
-( Stranger ChatRoom ,  6th Sem Diploma CSE Microproject of PHP just saving here.)   
+( Stranger ChatRoom , 6th Sem Diploma CSE Microproject of PHP just saving here.)   
 
 A Real-Time Chat WebApp, as we all familiar that Chatting is a method of using technology to bring people and ideas together despite of the geographical barriers. The technology has been available for years but the acceptance was quite recent. My project Stranger Chatroom is an example of a chat server. 
 Why my project is bit different is because in my project there is no login no sign up, the user just have to enter the legal room name, that is it must be greater than 2 characters & it must be always new, once user entered & claimed the room name then it will redirect the user to the chatroom. 
