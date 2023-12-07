@@ -6,27 +6,27 @@ Why my project is bit different is because in my project there is no login no si
 Where user can chat & user will required only 1 thing to do next is the user have to share the URL link.
 
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/1.jpg">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/1.jpg">
 
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/2.jpg">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/2.jpg">
 
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/3.jpg">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/3.jpg">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/4.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/4.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/5.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/5.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/6.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/6.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/7.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/7.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/8.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/8.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/9.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/9.png">
 
-##  <img width="901" alt="Chatroom" src="https://github.com/Ankkkyyyy/ChatRoom/blob/master/SChatRoom/10.png">
+##  <img width="901" alt="Chatroom" src="https://github.com/ankitmishralive/ChatRoom/blob/master/SChatRoom/10.png">
 
 
 
@@ -36,5 +36,5 @@ Where user can chat & user will required only 1 thing to do next is the user hav
 
 
 ## Authors
-- [@Ankkkyyyy](https://www.github.com/Ankkkyyyy)
+- [@ankitmishralive](https://www.github.com/ankitmishralive)
 
